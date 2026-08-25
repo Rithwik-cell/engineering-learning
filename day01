@@ -1,0 +1,7 @@
+print("Hello, Engineering World!")
+
+name = "Rithwik"
+field = "Electrical Engineering"
+
+print("Name:", name)
+print("Field:", field)
